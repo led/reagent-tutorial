@@ -162,7 +162,7 @@ Reagent. The second argument is a vector of child components and the last
 argument is a reference to the underlying React component. The last
 two arguments are not used at all in this tutorial.
 
-The complete interface for a Reagent component is therefor
+The complete interface for a Reagent component is therefore
 
 ```clojure
 (defn some-component [props children this] 
